@@ -17,7 +17,7 @@ Do not forget to install the necessary libraries described in the Requirements p
 Clone the repository in the source folder of your catkin workspace.
 
 ```
-Give the example
+git clone https://github.com/natycalvob/Handovers_Data.git
 ```
 
 ## Description of Dataset
